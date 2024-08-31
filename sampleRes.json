@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 1000,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Magyar Hírlap",
+      "title": "Ezek a leggyakrabban allergiát okozó élelmiszerek - Magyar Hírlap",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGZ2djNDdlRsZ3RYUEtKWW1PdHpXbHc2S3JQZGUwTDg4SUg1M1JERmt2OWx4aWgyNm5BaGV6SFNQX1BuQnNfZ3VoUzJVX0RoLS0xaDJOal9ZMnBqbk1WQlM4RFR1dWtRbklKbDFaa3lGNnlKbmVMVDJJdHcwbVI1ZzlLZEtEU1ZLaW5mX1dmYldNWkNMaTRtekc0Yw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:39:16Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Conversation",
+      "title": "Mpox in the DRC: children are at high risk – health expert explains why - The Conversation",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3hNQmkycmVsN1U2OHhKck1zY0VHQ2ZoYzh4Uk96VlJ4dko5d0FCSXFmbXBFS1pBT2RDUzhydGxhZ19MVWlLOGdpN3FITjBzZzZaS2tQc1ByZUw0TlItWEI4b3lpblZtQld0aDJwOFlfVG1ieDhOc3MxYjJzeWhlRTFmSndMTm9kQmttaWNiY0t0UllVTEJKRTV6Vm9zdlNMTloxdGRR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:36:04Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "News-Medical.Net",
+      "title": "Study finds diabetes linked to accelerated brain aging, but healthy habits can help - News-Medical.Net",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVUFUc1A5ZzdpSDZUaGMwMUpGR2duT1hCVnVTdXV2UWV2c2Q1NExWNkJYbE9Cd29jYXpXcnIzRFBXNWZVU284VmNJSGo5RDJrMHFmM1p3bkg0TFJtWTFEN1VRYXRxenp6T0F5YTFGd1JucmZmbnYydnVXT25PR0p4Z3hLRWVOeWJnQ2pra1Y5RVJKV2ZwNjZRMUN3SVZPYUc3VmRveHJWYTlpelItVnBCTkxNSWRYQ0R4RHByTFc5dGFlcE83RzFRaGJn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:35:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "紫荊雜誌",
+      "title": "秋季花粉期已至 過敏者需預防 - 紫荊雜誌",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83VkQxUVVBeGozOEQtcEFqVzAzTGhWZVhMME5ROE5KdzNSVzRocVN3Vkh3cFJJZWtmYjlXeE94SUZiekcyRHduamdGOWFPMklYdGo3OF94N2hXay00M2Foa2IxSkRMV0lCQzZyYWhvSzRwdUQ3a0doRWdB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:32:50Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Sekretariat Negara",
+      "title": "Jelang HLF MSP dan IAF 2024 di Bali, DPR RI Fokus Pencegahan Wabah Monkeypox - Sekretariat Negara",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFNkZ2ZTbFJSYnd1N0hzLXlXM1gtUjEtLXk2dHltYVYxS0tfSkdyV3FLVzNQME1DSkIwVW1uY2FJOTV1UVRDX0V2R3dJQTh4TnpjUjhNSW5CRmpIQ2hEWlBka2l0a0JxVW4wNHQ4aVpmUlJpd0Zmb3ZVNGowRGFFUjluQkFUYU84dmxNUGRLaXIyZG55d1l3U3lIQlJVS3ZsaHo2NE1NdEF0ODZma3NVNg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:32:39Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "China CDC Weekly",
+      "title": "The Implications of Artificial Intelligence on Infection Prevention and Control: Current Progress and Future Perspectives - China CDC Weekly",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CWjNBNlZYVThHRjYxUjc2dmtVY05EanhXUGVxSHd4SnVqbVp6UVp2UFpZYS1ZdzFJVmVpM0U0MTYwelc1SDdYOWRhSGJTTHl3OTZPMElhVWtob3lmd0V4d3ZWajk1Q3BqbWlhNE9OOENkQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:17:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "中評社",
+      "title": "美國出現多例奧羅普切熱病例 - 中評社",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0MFhYdS1lR0taRGRac0NOclBiUUNQOHFjRWVPMS1KdXQ5TDU0cEZacmFjWl9ZN2NONWdObV9OMGhjaUdZbDMzelZLNXBRdjhXaElseEtOY214dFlUdk9MQ2NfLUwxeFE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:14:17Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "News-Medical.Net",
+      "title": "Sapio Sciences Successfully Completes SOC 2 Type 2 Examination and HIPAA/HITECH Attestation Examination - News-Medical.Net",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWGxFYkRaZWpZSGxoenA4Y1VZdjZzWkloSGdzYk1BODUtbmt1Ty0xdzVJSHhiYWk5VjZ4bUZSSk50eHNHS2pnczRycjZYNVJVRmFkWVU3SFBka1RNVks3QlVPN3JRNU1WXzJlV1hCN1ZwcUt1WE52VFlibzl5WXlENnd2MW00bHI2b2FkWldRdFdOYV80T0xFN2hCcDhoXzk5ZHdfZHc0eGRJUG9LQ1VzMG00ZDZTaFVLb0JCc29SNlNyc2oyNE5JcktpOTVrRnR5WGFNdlBHTHRTalNIUjFPZHo0NlE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:12:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "新华网客户端",
+      "title": "一款天花疫苗获美药管局批准用于预防猴痘感染 - 新华网客户端",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWxETS1uSVdNaHBwVThCSmpERzJnMFRRWjA5NjJ2d2dhYlZBOEZReHQxV0dEMW41MTBVd1VZazd1U2kyNFhVYUFXSHczR0s3UTFpQTZ2MnlreUNDOXJBUzhXV0NtOFRPaHFNZlJGVGxzdTVEZ2RiZmZNclVzVFVIYkhvRXlvMmt6dWQzdXY1bw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T08:00:27Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Clínica Universidad de Navarra",
+      "title": "La Dra. Fernández Seara, miembro honorífico de la Sociedad Internacional de Resonancia Magnética en Medicina - Clínica Universidad de Navarra",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdi03UW1iMUtzdnB1V3NkMFY3R0ZnNFRBcWppOG5jVWJVQkJSWGtGUWZFb29UZlZZMENNdzRKSTg1NWFMM2JFQ2pKa0luWGtnclRFVjRPZk5XeUVwUlFZdGR5eTR2VE03aUpKT2lLaGpUX3NzVkdHZDVDUERZMXNkbkVzOTFGcmc0TXBUanozRzZTemRVd2syUFR4cHMwRk9KLTZPX3BZTUE3RlBxWGE0X1MzOWJMWlJJM0xQMVpKQmlRN0xiS1VtaGF3?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:46:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "生物通",
+      "title": "周末睡懒觉有理！研究发现“补觉”可将患心脏病风险降低20% - 生物通",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45bTB2eDJ5ZG5Ob1lKWHpINTZSekFHSUI3LWFYUllpd0Z3bjZXZnNHeks0bUFfMHVfRnlZR3JxN0lKWnJmOWlXN3hWa3RPdV9oSnhER2FwTnhKMGVkN0pXejZQX1NKSE5LWUFCbw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:44:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Medscape",
+      "title": "How Do Plant-based Foods Reduce Type 2 Diabetes Risk? - Medscape",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGxIbHRpUG55akFud1UxUTNURHdKRkZtV1pESEtOWWtvUmtrLVN0X3JiNmNHTVBuQVh2M2pKN3hfXzY3R0FMOUVYQmtpNEdQTEtMUWl6OVktMVhseXJ4TGVEeFBiYnl2TzVKekJDRUJ5TnczNkRWY2NhT0pObjk5QnlRdnVPdnV5U0FoZlAtUjRKSlJ1b3ZmLWRPTmtxM2pKeDBkag?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:43:37Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Agenzia ANSA",
+      "title": "Suicidio assistito, Martina Oppelli denuncia l'Asl per tortura: \"Valuto sempre l'ipotesi di andare all'estero\" - Agenzia ANSA",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnB4MmdxMXI2dDVDb2JmOEp5dHhsWHVvaV9vMF82Smd1azd1WWpfU21Qa2dFZDNSOWFYSlhWMl9RYmhNT0dyMkZIcFBWUE9kTGJmSHVYZzVuMWJWSUt0QmFEelRkVXVJVjFic1hSREVEODg4TkRqTWlId0ZFTUxiTWRXMV9qNzk1QjZCVFk3Y3c0TUd5UkY5WmVEVDBmeUtuVTkzeURFbHFGWGFWVENSbHFTdkctX0p4NEVuSHFCTEVZQTMwSklzTlZfR2lXb3NaMUZhUXkxaEptTXNOVWN6dw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:42:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Irish Medical Times",
+      "title": "Hidden health clues uncovered by map of the human endometrium - Irish Medical Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWRsNE51V0o2SDVTQ3BkeE5tdnZwVlo3Y1pOU19IdGlNQWoyMW15eDhKcnBtQTRUblR5SU54S18xTlJlSE5sWExFVkxLVG1scVVpZjg0NXNiN0Q1aDZkamgyQS1ZWUlleC1DSEtLQmhEMDA4Y09VRVZuX2hOVXRwb19xWkdDUlV2Vm9Lb3psUFNQbUdqTWRDZlBnaVMtZw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:32:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Irish Medical Times",
+      "title": "Irish researchers develop implant to power healing after spinal cord injury - Irish Medical Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelZPNldUa0JEMDd2UXZNNnRSa3BodktWWUFZbFNXbl9FUnVuYWdnSUxpZmpRNVktM0JyV21YcXQzX1piRlk0cXd4aDNMYW5FNVdFd01GaXE2MUJVVWN5N1FCcGgyM2dEcUltWUYtRWlFaDFTQjI0YkYwNlgycC1BMnZfVG1rR19IRmJrLW1xaDlYR2VhZWZIOG9zV2x3NWFqTXpwZWctVVlRaTUyV2VFWQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:31:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Noticias de la Ciencia y la Tecnología",
+      "title": "Cómo los mosquitos detectan la presencia cercana de humanos a los que picar - Noticias de la Ciencia y la Tecnología",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGZhVU4xSUZ2bTFmNFJFejVLZjBZZnFnNldMdFBDeUwxaEU1dndLWjBNNW1zUzBmS3BrTWVlX0Fjdjk5c0g0cUxVRXJYRElGVWtqdTFmU2lpYjFtRU5PVjhaX1B5Z2I4Q1M4SkhVYXRDcmU2YjB3MFprTmZFNHFHcTRyUXQ1dWFfdXg3cHRxaUxlS3VCUGl6eXR2SmZmM280enBvMWRER3NsOE56a0dVYWN6NXQtZDRO?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:25:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "الحرة",
+      "title": "\"الكثيرون مرتبكون\".. ما الذي يجب معرفته عن أحدث لقاحات كورونا؟ - الحرة",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQVmZSS1dzTFZOOEFDd043ZE92TXd1QkpqV2dDOFd6YkJzeTBpamZQZjJpbDlLTExBMXhPaWw4Zmh5cXlxWHk4c0tNMlY1NzNNQWt5THJBQXVmb1h2NjgxUFlMT2RXOHZFaEN2STFybl9LaWR4SFhKYk5HSkc0LVJKVnRDaHJILUF5eE9LcTFyTmlBa3Q4MHM4cm1lTlB2cS1BMUwxcXpCc1ZTQzVXM3NDTGFqbkE3dmFxaDJCaW5LeHI1RWZCLVA0cnpyU0V5VEF5cEJmN2tySFZDNTVtZkc2OFljSVZjNDAxaW1CNFFQN1Ytb1MxVDNFTjUxbVc2dHFTYm0waE83a1FuZTlXZi00aHd5MEpVUkJqcTR6dWpod1JyVjNHZEVYR1BIcC10cjUySnh5Y3phRFJOaDFUYmhiSmlhMmhzelB2bUdTc3F2VTZ6el83SzRzVWFYc0JMSXNJcEhhSVNZUnFrVlBuVmw5TmI3Ml9rN2ZJUDFCelpRYlA4bjMwWEVSV3JPcVhGa1dYWVpid09tSUZkYURXWUpZbXdtMGp0aUJleVRyRmtXOXlRd9IBtwNBVV95cUxOVHM0LTFuZzE3MUlIbUc0cGNpdXV6eDVabi1nS25TVzBXVGREdURRdzctYlFBQ0lrOEhzMEhaZGtseUUxWnd1a2NxTmdGY0duUlFRa2NkRDFncGN0ZU51TzBNS1ZHemVsaXowY1Q3cHJCdFhNUVBLUTlRdnlHUUpjbmdhT25VQXY0RVJSX29yRE5nenZCUEMyMjZxY3E2d2QybURuQlJKQzF6Qi1nVThweVlnNFNSSWh6aXRSdzlPNER5NmxhMWdCc2puZ3lkZkN4eGduSjNobDRnMmJ1Z2NLVktwYUJWTUNmTGhqRTY4c1NCY3dtaV9hSUZIRng4WkxBSF9qSVRXZ25rdWRZM2Y0WGFSTWNKWGpXNlhLc2lSR3htNXQxeFRFaVBxckV6WGYzbHE2alUtc043clBEbzk4WndqYU5CbkhYcWV6ZmlvNmQyQmFERWNFT2VybGJaNnNMT2MzdXBRZ3MyQUdGMk5hckFubm9iWWdxUDRGX3h0NE9ZZzAxWFdkbDNPejdrZklXV0NXWUJmUnhsRUwtQldsd0hVWjhIZWR2M21VYWdGbzJ1MUhHVmxN?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:20:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ABC News",
+      "title": "Senate report recommends compensation scheme for people injured by vaccines - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUZFYTUtV0pWemNLZ0dpLW5QVGpjenc3aTcyV2tWTDFxUlNRXzlNYUpDRVBIa3ltQm5QVVVRYlhXWVhybGhwMjBjMl9UNDJpS3pYSnhOTXBHTE1INF9ad3RHWlRObklMdk5IWktFTzdEUk9oX09KREY0TVEteGpTM0d6bXNscVlnaHEzUVo0UWdSakdUMFpDNVZWcEc3Z1E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:20:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Medical Xpress",
+      "title": "Two-thirds of deaths related to high BMI are due to cardiovascular diseases, says consensus - Medical Xpress",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCd1lyTEV1SDhseHl2d1cxSHhqamRNYzdmc1RzU3ZQXzJJZ3ZHa2txRXBOd3VHSWxRVC1rdlJVU3FuYWM1SlpQc21SSkNCc1FTejRSZFBIZHlQNE9rR2dtVFo5STZ5X2poSmtsYUdrbWt2Tk1WU1FfOXln?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:20:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Cureus",
+      "title": "Prevalence of Iron Deficiency Among Patients With Helicobacter pylori Infection at a Tertiary Care Hospital - Cureus",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObTY1clJCMUFLOWxPRVlqbmlxN0YzMnlvSGxvN2RpVXN1dWlNakdsVUpVOXpwSHluOVN5ekRiUGk4ZzBKWmZuTDE4NDBvUzlKWXlxeUV4RmJtTG1TXzBIQ0ZGMFZ4NFE2X3liT0Y1dWxnSWxFcGhlcWVzUnRKNXMyYTJrME51WUh0YlB4M3gyRm9oVEFudUpyeDI5X2NhQ0wwcGlacEJiMnpjZHZyRVVlWTVONUhDZl9qbm5kM0pRbFo4VkZSZ0NfWVdYRVhiVGZEak1KMmd5VjU0R19vck80?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-30T07:15:39Z",
+      "content": null
+    }
+  ]
+}
