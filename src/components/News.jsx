@@ -13,7 +13,7 @@ function News({ category }) {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          `https://newsapi.org/v2/top-headlines?category=${category}&country=in&apiKey=${config.apiKey}`
+          `https://newsapi.org/v2/top-headlines?category=${category}&country=in&apiKey=${import.meta.env.VITE_API_KEY}`
         );
 
         console.log(response.data);

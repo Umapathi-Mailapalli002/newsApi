@@ -54,6 +54,8 @@ function Navbar() {
     }, [isOpen, isLocked, toggle]);
   
     const isSmallScreen = useMediaQuery({maxWidth : 770})
+    const navInactiveClass = "hover:text-blue-500 dark:hover:text-gray-500 font-bold text-xl md:text-sm"
+    const navActiveClass = "hover:text-blue-700 font-extrabold text-blue-700 dark:hover:text-gray-500  text-xl md:text-sm"
   return (
     <div>
         <div className='bg-orange-300 dark:bg-slate-900 h-16 flex justify-between lg:w-full'>
@@ -62,13 +64,13 @@ function Navbar() {
             (<RxCross2 className='absolute size-10 text-black dark:text-white'/>)}
             </button>) : (
               <ul className='mt-5 leading-10 text-xl text-black dark:text-cyan-200 font-mono grid grid-flow-col gap-3 lg:gap-10 ml-5'>
-              <NavLink to="/"><li className='hover:text-blue-500 dark:hover:text-gray-500  text-xl md:text-sm'>General</li></NavLink>
-              <NavLink to="/business"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Business</li></NavLink>
-              <NavLink to="/entertainment"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Entertainment</li></NavLink>
-              <NavLink to="/health"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Health</li></NavLink>
-              <NavLink to="/science"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Science</li></NavLink>
-              <NavLink to="/sports"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Sports</li></NavLink>
-              <NavLink to="/technology"><li className='hover:text-blue-500 dark:hover:text-gray-500 text-xl md:text-sm'>Technology</li></NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/">General</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/business">Business</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/entertainment">Entertainment</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/health">Health</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/science">Science</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/sports">Sports</NavLink>
+              <NavLink className={({isActive}) => (isActive ? navActiveClass : navInactiveClass)} to="/technology">Technology</NavLink>
             </ul>
             )}
             {/* enabling dark mode and light mode button */}
